@@ -1,0 +1,50 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Super easy questionnaire</title>
+<link rel="stylesheet" href="css/style.css">
+<script src="js/jquery-1.10.2.min.js"></script>
+<script src="js/script.js"></script>
+<script src="js/box.js"></script>
+<script>
+function  goFunction (){
+	init();
+	box();
+
+}
+window.onload = goFunction; 
+</script>
+
+<body>
+
+<div id="container">
+		<h1>Super easy questionnaire</h1>
+     	<br>        
+       	<br>        
+        <td>How much is 2 + 2?
+		</td>
+		<td><input name="q1" type="text" id="q1" size="30" maxlength="30" placeholder="type here"></td>.
+  		<br>
+        <br>
+
+		<td>How much is 10 + 2</td>
+		<td><input name="q2" type="text" id="q2" size="30" maxlength="30" placeholder="type here"></td>
+		
+		<br>
+		<br>
+		<td>How much is 50 + 50</td>
+		<td><input name="q3" type="text" id="q3" size="30" maxlength="30" placeholder="type here"></td>.
+  		<br>
+        <br>      
+		
+		<div id="btn"><h1>CHECK</h1></div>
+
+		<div id="titleQuestion"></div>
+
+
+
+</div>
+
+</body>
+</html>
