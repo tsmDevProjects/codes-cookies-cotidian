@@ -1,0 +1,148 @@
+body { 
+    background: url(../img/background-default.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+
+.text-muted{
+    opacity: 0;
+
+}
+ul {
+    list-style: none;
+}
+.choiceList li {
+    font-size: 14px;
+    color: #7a0d9a;
+    margin: 10px 0 0 -24px;
+    padding: 0 15px 0 7px;
+    text-align: left;
+    width: 425px;
+    height: 63px;
+    width: 407px;
+    font-size: 20px;
+}
+
+input[type=radio] {
+    -webkit-appearance: none;
+    border: none;
+    width: 40px;
+    height: 40px;
+    background: url("./../img/radio.png") left center no-repeat;
+    vertical-align: middle;
+    margin:0px 14px 1px -51px;
+}
+input {
+    line-height:40px;
+}
+input[type="radio"]:checked {
+    background: url("./../img/checked.png") left center no-repeat;
+}
+
+.quizContainer {    
+    width: 100%;
+    height: 500px;    
+    padding-top: 5px;
+    position: relative;
+}
+
+#contentAll{
+    position: absolute;
+    top: 45px;    
+    width: 507px;
+    height: 410px;
+}
+
+.nextButton {
+    position: absolute;
+    width: 150px;
+    height: 48px;
+    text-align: center;
+    background-color: #640952;
+    color: #FFF;
+    position: relative;
+    margin: 472px 0px 1px 17px;
+    line-height: 3.2;
+    cursor: pointer;
+    font-family: "Arial";
+    display: none;
+    border-radius: 13px;
+}
+
+.question {
+    position: absolute;
+    font-size: 2em;
+    width: 100%;
+    height: auto;
+    top: 55px;
+    left: 20px;
+    color: #172983;
+    text-align: left;
+    font-size: 25px;
+    font-family: 'Magra', sans-serif;
+
+}
+
+.quizMsg {
+    position: absolute;
+    background-color: peachpuff;
+    width: 200px;
+    margin: 414px 0 0 141px;
+    text-align: center;
+    padding: 2px;
+    font-family:'Arial';
+    color: red;
+}
+.choiceList {
+    color: #172983;
+    position: absolute;
+    font-size: 10px;
+    top: 162px;
+    font-family: "Arial";
+    margin-left: 87px;
+}
+
+#result {
+    position: absolute;    
+    display: none;
+    color: #fff;
+    line-height: 12;
+    text-align: center;
+    font-size: 40px;
+    font-family: "Arial";
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+    top: 0px;
+    background-color: rgba(146, 63, 73, 1);
+    background: rgba(146, 63, 73, 1);
+}
+
+
+
+@media (max-width: 500px) {
+    .question {                
+        top: -5px;
+        left: 1px;        
+    }
+
+    .choiceList {        
+        margin-left: 47px;        
+    }
+
+    .nextButton {     
+        margin: 458px 0px 1px -3px;
+     
+    }
+
+    #result { 
+        line-height: 17;       
+        font-size: 28px;          
+        z-index: 2;
+        top: 0px;     
+    }
+
+}

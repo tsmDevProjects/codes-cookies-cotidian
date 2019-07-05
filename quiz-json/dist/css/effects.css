@@ -1,0 +1,51 @@
+#preloader {
+    overflow: hidden;
+    background: #005ac6;
+    background: -webkit-linear-gradient(to right, #051937, #005ac6);
+    background: -webkit-linear-gradient(left, #051937, #005ac6);
+    background: linear-gradient(to right, #051937, #005ac6);
+    height: 100%;
+    left: 0;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999999;
+}
+
+.pre-load {
+    -webkit-animation: 1500ms linear 0s normal none infinite running pre-load;
+    animation: 1500ms linear 0s normal none infinite running pre-load;
+    background: transparent none repeat scroll 0 0;
+    border-color: #dddddd #dddddd #005ac6;
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 5px;
+    height: 60px;
+    left: calc(50% - 30px);
+    position: relative;
+    top: calc(50% - 30px);
+    width: 60px;
+    z-index: 9;
+}
+
+@-webkit-keyframes pre-load {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}
+
+@keyframes pre-load {
+    0% {
+        -webkit-transform: rotate(0deg);
+        transform: rotate(0deg);
+    }
+    100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
+    }
+}

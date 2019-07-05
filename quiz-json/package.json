@@ -1,0 +1,15 @@
+{
+  "name": "desv",
+  "version": "1.0.0",
+  "description": "Etapa II",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago S.M.",
+  "license": "ISC"
+}

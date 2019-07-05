@@ -1,0 +1,160 @@
+{
+    "TotalItems": 60,
+    "ItemsPerPage": 20,
+    "Items": [
+        {
+            "Idx": 1,
+            "DtFoundation": "19/07/1900",
+            "Name": "Sport Club Rio Grande",
+            "City": "Rio Grande",
+            "State": "RS",
+            "Hint": "Mais antigo clube brasileiro ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 2,
+            "DtFoundation": "11/08/1900",
+            "Name": "Associação Atlética Ponte Preta",
+            "City": "Campinas",
+            "State": "SP",
+            "Hint": "Mais antigo clube paulista ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 3,
+            "DtFoundation": "14/07/1902",
+            "Name": "Esporte Clube 14 de Julho",
+            "City": "Santana do Livramento",
+            "State": "RS",
+            "Hint": "Fundado em cidade na fronteira com o Uruguai"
+        },
+        {
+            "Idx": 4,
+            "DtFoundation": "21/07/1902",
+            "Name": "Fluminense Football Club",
+            "City": "Rio de Janeiro",
+            "State": "RJ",
+            "Hint": "Primeiro dos 12 maiores do Brasil a entrar em campo e o primeiro a ostentar a palavra futebol no nome"
+        },
+        {
+            "Idx": 5,
+            "DtFoundation": "13/09/1902",
+            "Name": "Esporte Clube Vitória",
+            "City": "Salvador",
+            "State": "BA",
+            "Hint": "Fundação do clube: 13/05/1899. Primeiro clube baiano ainda em atividade a entrar em campo, em 22/05/1901, informalmente por associados. Departamento de futebol inaugurado em 1902, primeira partida do clube em 13/09/1902"
+        },
+        {
+            "Idx": 6,
+            "DtFoundation": "15/09/1903",
+            "Name": "Grêmio Foot-Ball Porto Alegrense",
+            "City": "Porto Alegre",
+            "State": "RS",
+            "Hint": "Primeiro clube de Porto Alegre ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 7,
+            "DtFoundation": "17/04/1904",
+            "Name": "Bangu Atlético Clube",
+            "City": "Rio de Janeiro",
+            "State": "RJ",
+            "Hint": "Mais antigo clube oriundo de fábrica do Brasil ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 8,
+            "DtFoundation": "12/08/1904",
+            "Name": "Botafogo de Futebol e Regatas",
+            "City": "Rio de Janeiro",
+            "State": "RJ",
+            "Hint": "Fundação do clube de remo: 01/07/1894 (do Botafogo de Regatas, que se juntaria ao Botafogo Futebol Clube em 08/12/1942, formando o BFR)"
+        },
+        {
+            "Idx": 9,
+            "DtFoundation": "18/09/1904",
+            "Name": "America Football Club",
+            "City": "Rio de Janeiro",
+            "State": "RJ",
+            "Hint": "Primeiro clube da Grande Tijuca ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 10,
+            "DtFoundation": "13/05/1905",
+            "Name": "Sport Club do Recife",
+            "City": "Recife",
+            "State": "PE",
+            "Hint": "Primeiro clube pernambucano ainda em atividade a entrar em campo"
+        },
+        {
+            "Idx": 11,
+            "DtFoundation": "11/06/1906",
+            "Name": "Associação Atlética Internacional",
+            "City": "Bebedouro",
+            "State": "SP"
+        },
+        {
+            "Idx": 12,
+            "DtFoundation": "07/09/1906",
+            "Name": "Esporte Clube Ypiranga",
+            "City": "Salvador",
+            "State": "BA"
+        },
+        {
+            "Idx": 13,
+            "DtFoundation": "19/04/1907",
+            "Name": "Guarany Futebol Clube",
+            "City": "Bagé",
+            "State": "RS"
+        },
+        {
+            "Idx": 14,
+            "DtFoundation": "07/09/1907",
+            "Name": "Clube Atlético Pirassununguense",
+            "City": "Pirassununga",
+            "State": "SP"
+        },
+        {
+            "Idx": 15,
+            "DtFoundation": "25/03/1908",
+            "Name": "Clube Atlético Mineiro",
+            "City": "Belo Horizonte",
+            "State": "MG",
+            "Hint": "Primeiro clube mineiro ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 16,
+            "DtFoundation": "04/06/1908",
+            "Name": "Sport Club São Paulo",
+            "City": "Rio Grande",
+            "State": "RS"
+        },
+        {
+            "Idx": 17,
+            "DtFoundation": "28/06/1908",
+            "Name": "Villa Nova Atlético Clube",
+            "City": "Nova Lima",
+            "State": "MG",
+            "Hint": "Primeiro clube mineiro ainda em atividade a entrar em campo, logo no dia de sua fundação"
+        },
+        {
+            "Idx": 18,
+            "DtFoundation": "11/10/1908",
+            "Name": "Esporte Clube Pelotas",
+            "City": "Pelotas",
+            "State": "RS"
+        },
+        {
+            "Idx": 19,
+            "DtFoundation": "15/11/1908",
+            "Name": "Barra Mansa Futebol Clube",
+            "City": "Barra Mansa",
+            "State": "RJ",
+            "Hint": "Primeiro clube do Sul Fluminense ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 20,
+            "DtFoundation": "03/01/1909",
+            "Name": "Sport Club Penedense",
+            "City": "Penedo",
+            "State": "AL",
+            "Hint": "Primeiro clube alagoano ainda em atividade a ser fundado"
+        }
+    ]
+}

@@ -1,0 +1,156 @@
+{
+    "TotalItems": 60,
+    "ItemsPerPage": 20,
+    "Items": [
+        {
+            "Idx": 21,
+            "DtFoundation": "04/04/1909",
+            "Name": "Sport Club Internacional",
+            "City": "Porto Alegre",
+            "State": "RS"
+        },
+        {
+            "Idx": 22,
+            "DtFoundation": "09/05/1909",
+            "Name": "Rio Claro Futebol Clube",
+            "City": "Rio Claro",
+            "State": "SP"
+        },
+        {
+            "Idx": 23,
+            "DtFoundation": "17/05/1909",
+            "Name": "Paulista Futebol Clube",
+            "City": "Jundiaí",
+            "State": "SP"
+        },
+        {
+            "Idx": 24,
+            "DtFoundation": "06/06/1909",
+            "Name": "Resende Futebol Clube",
+            "City": "Resende",
+            "State": "RJ"
+        },
+        {
+            "Idx": 25,
+            "DtFoundation": "25/07/1909",
+            "Name": "Clube Náutico Capibaribe",
+            "City": "Recife",
+            "State": "PE",
+            "Hint": "Fundação do clube: 07/04/1901"
+        },
+        {
+            "Idx": 26,
+            "DtFoundation": "01/08/1909",
+            "Name": "São Cristóvão de Futebol e Regatas",
+            "City": "Rio de Janeiro",
+            "State": "RJ",
+            "Hint": "Fundação de um dos clubes que o formou, o de regatas: 12/10/1898"
+        },
+        {
+            "Idx": 27,
+            "DtFoundation": "12/10/1909",
+            "Name": "Coritiba Foot Ball Club",
+            "City": "Curitiba",
+            "State": "PR",
+            "Hint": "Primeiro clube paranaense ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 28,
+            "DtFoundation": "01/09/1910",
+            "Name": "Esporte Clube Noroeste",
+            "City": "Bauru",
+            "State": "SP"
+        },
+        {
+            "Idx": 28,
+            "DtFoundation": "01/09/1910",
+            "Name": "Sport Club Corinthians Paulista",
+            "City": "São Paulo",
+            "State": "SP",
+            "Hint": "Primeiro clube paulistano ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 30,
+            "DtFoundation": "02/04/1911",
+            "Name": "Guarani Futebol Clube",
+            "City": "Campinas",
+            "State": "SP"
+        },
+        {
+            "Idx": 31,
+            "DtFoundation": "23/04/1911",
+            "Name": "Clube Esportivo Lajeadense",
+            "City": "Lajeado",
+            "State": "RS",
+            "Hint": "Primeiro clube do Vale do Taquari ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 32,
+            "DtFoundation": "01/05/1911",
+            "Name": "Esporte Clube Novo Hamburgo",
+            "City": "Novo Hamburgo",
+            "State": "RS",
+            "Hint": "Primeiro clube do Vale do Rio dos Sinos ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 33,
+            "DtFoundation": "15/08/1911",
+            "Name": "Tupynambás Futebol Clube",
+            "City": "Juiz de Fora",
+            "State": "MG",
+            "Hint": "Primeiro clube da Zona da Mata (MG) ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 34,
+            "DtFoundation": "07/09/1911",
+            "Name": "Grêmio Esportivo Brasil",
+            "City": "Pelotas",
+            "State": "RS"
+        },
+        {
+            "Idx": 35,
+            "DtFoundation": "10/10/1911",
+            "Name": "Comercial Futebol Clube",
+            "City": "Ribeirão Preto",
+            "State": "SP",
+            "Hint": "Primeiro clube ribeirão-pretano ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 36,
+            "DtFoundation": "14/04/1912",
+            "Name": "Santos Futebol Clube",
+            "City": "Santos",
+            "State": "SP",
+            "Hint": "Primeiro clube da Baixada Santista ainda em atividade a ser fundado"
+        },
+        {
+            "Idx": 37,
+            "DtFoundation": "30/04/1912",
+            "Name": "América Futebol Clube",
+            "City": "Belo Horizonte",
+            "State": "MG"
+        },
+        {
+            "Idx": 38,
+            "DtFoundation": "01/05/1912",
+            "Name": "Operário Ferroviário Esporte Clube",
+            "City": "Ponta Grossa",
+            "State": "PR"
+        },
+        {
+            "Idx": 39,
+            "DtFoundation": "03/05/1912",
+            "Name": "Clube de Regatas do Flamengo",
+            "City": "Rio de Janeiro",
+            "State": "RJ",
+            "Hint": "Fundação do clube: 17/11/1895"
+        },
+        {
+            "Idx": 40,
+            "DtFoundation": "07/05/1912",
+            "Name": "Riograndense Futebol Clube",
+            "City": "Santa Maria",
+            "State": "RS"
+        }
+    ]
+}
