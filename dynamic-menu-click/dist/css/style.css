@@ -1,0 +1,12 @@
+[id^="content-wrap"] {
+   display:none; 
+   width:300px;
+   height:200px;
+   background:black;
+   color:#fff;
+   }
+
+
+#content-wrap2{background: tomato;}
+#content-wrap3{background: #03A6A6;}
+#content-wrap4{background: #A64E6E;}
