@@ -1,0 +1,41 @@
+#controller{
+    padding:10px 10px 0 10px;
+    background:red;
+    color:white;
+    float:left;
+    width:150px;
+}
+#controller li{
+    font:200 12px/18px Arial;
+    border:solid 1px white;
+    margin-bottom:10px;
+    text-align:center;
+    cursor:pointer;
+}
+#content {
+    padding: 10px;
+    background: black;
+    color: white;
+    float: left;
+    width: 200px;
+    left: 50px;
+    position: relative;
+}
+#content li{
+    display:block;
+    height:150px;   
+    text-align:center;
+    font:900 14px/150px Arial;
+}
+.green{
+    background:green;
+    color:yellow;
+}
+.pink{
+    background:pink;
+    color:red;
+}
+.red{
+    background:red;
+    color:white;
+}
