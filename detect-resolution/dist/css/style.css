@@ -1,0 +1,69 @@
+/* default */
+html .landscape, html .portrait, html .smartphone, html .ipad, html .desktop, html .wide { display: none; }
+
+/* Smartphones (portrait and landscape) */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	html .landscape, html .portrait, html .smartphone { display: block; }
+	html .retina { display: none; }
+}
+/* Smartphones (landscape) */
+@media only screen and (min-width : 321px) {
+	html .landscape, html .smartphone { display: block; }
+	html .retina { display: none; }
+}
+
+/* Smartphones (portrait) */
+@media only screen and (max-width : 320px) {
+	html .portrait, html .smartphone { display: block; }
+	html .retina { display: none; }
+}
+
+/* iPads (portrait and landscape) */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+    html .ipad { display: block; }
+	html .landscape, html .portrait, html .smartphone,
+	html .retina { display: none; }
+}
+
+/* iPads (landscape) */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) {
+	html .landscape, html .ipad { display: block; }
+    html .retina { display: none; }
+}
+
+/* iPads (portrait) */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) {
+	html .portrait, html .ipad { display: block; }
+	html .retina { display: none; }
+}
+
+/* Desktops and laptops */
+@media only screen and (min-width : 1224px) {
+	html .landscape, html .desktop { display: block; }
+	html .smartphone, html .retina { display: none; }
+}
+
+/* Large screens */
+@media only screen and (min-width : 1824px) {
+	html .wide { display: block; }
+}
+
+/* iPhone 4 */
+@media only screen and (-webkit-min-device-pixel-ratio:1.5), only screen and (min-device-pixel-ratio:1.5) {
+	html .retina { display: block; }
+}
+
+/* defualt layout */
+html, body { margin: 0px; padding: 0px; height: 100%; }
+#wrapper { display: table; width: 100%; height: 100%; }
+h1 { color: #fff; text-align: center; margin: 0; display: table-cell; vertical-align: middle; }
+
+/* Bg Color */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) { html { background: red; } }
+@media only screen and (min-width : 321px) { html { background: orange; } }
+@media only screen and (max-width : 320px) { html { background: brown; } }
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) { html { background: yellow; } }
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : landscape) { html { background: green; } }
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) and (orientation : portrait) { html { background: blue; } }
+@media only screen and (min-width : 1224px) { html { background: violet; } }
+@media only screen and (min-width : 1824px) { html { background: pink; } }
