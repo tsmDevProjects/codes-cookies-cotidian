@@ -1,0 +1,41 @@
+#cenario{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+#bar-menu{
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  z-index: 9;
+
+}
+
+.myDivs {
+    width: 74px;
+    height: 74px;
+    float: left;
+    border-radius: 45px;
+    z-index: 10;
+    background: #000;
+    position: relative;      
+
+}
+
+
+#container {
+    position: absolute;
+    top: 10px;
+    left: 15px;
+    width: 298px;
+    height: auto;
+    z-index: 11;
+    background:tomato;
+}
+
+#container li {
+    list-style-type: none;
+    margin: 10px;
+    left: 10px;
+}
