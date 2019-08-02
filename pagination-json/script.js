@@ -1,5 +1,5 @@
 
-    $.getJSON("employee.json", function(data){
+    $.getJSON("allTeams.json", function(data){
         var employee_data = "";
         $.each(data, function(key, value){
             employee_data += "<tr>";
